@@ -1,1 +1,2 @@
-hello friends
+hello friends!
+how are you?
